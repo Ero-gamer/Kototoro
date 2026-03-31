@@ -35,7 +35,7 @@ litert = "2.1.0"
 markwon = "4.6.2"
 material = "1.14.0-alpha05"
 moshi = "1.15.2"
-okhttp = "5.2.1"
+okhttp = "5.3.2"
 okio = "3.16.1"
 
 preference = "1.2.1"
